@@ -1,7 +1,7 @@
 # Impressora 3D modular FinalBot   <a href='https://ko-fi.com/supportkofi' target='_blank'><img height='35' style='border:0px;height:36px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Compre um café para mim em ko-fi.com' />
 [![Status](https://img.shields.io/badge/Status-Active-green.svg)](https://www.gnu.org/licenses/gpl-3.0.html)
 [![License](https://img.shields.io/badge/License-CC4-yellow.svg)](https://www.gnu.org/licenses/gpl-3.0.html)
-[![Draws](https://img.shields.io/badge/Draws-Dxf 2D-blue.svg)](https://www.gnu.org/licenses/gpl-3.0.html)
+[![Draws](https://img.shields.io/badge/Draws-Dxf2D-blue.svg)](https://www.gnu.org/licenses/gpl-3.0.html)
 [![Bom](https://img.shields.io/badge/Bom-Xml-orange.svg)](https://www.gnu.org/licenses/gpl-3.0.html)
 
 Uma impressora 3D ilimitada.

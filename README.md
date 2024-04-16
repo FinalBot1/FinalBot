@@ -2,6 +2,9 @@
 
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=ACTIVE&color=GREEN&style=for-the-badge)
 
+[![License](https://img.shields.io/badge/License-CC4-blue.svg)](https://www.gnu.org/licenses/gpl-3.0.html)
+
+
 Uma impressora 3D ilimitada.
 A intenção é ser adaptável a qualquer tecnologia FDM. 
 Entre as principais características:

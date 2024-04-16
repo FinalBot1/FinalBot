@@ -1,6 +1,7 @@
 # Impressora 3D modular FinalBot
 
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+https://img.shields.io/badge/any_text-you_like-blue
 
 Uma impressora 3D ilimitada.
 A intenção é ser adaptável a qualquer tecnologia FDM. 

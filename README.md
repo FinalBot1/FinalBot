@@ -1,4 +1,4 @@
-<p align="center">
+<hr>
 ![FinalBot Logo](/Img/Logo1.jpg)
 <hr>
 

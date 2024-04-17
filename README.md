@@ -1,4 +1,4 @@
-<p align=100>
+<p align=1000>
   <img src="/Img/Logo_finalbot.jpg" />
 <hr>
 

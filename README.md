@@ -23,10 +23,9 @@ Key Features:
 The basic designs were created in 2D CAD in dxf format.
 The idea is to ensure that anyone has access to the construction drawings, even if they don't have a computer.
 We recommend using a dwg/dxf editor to measure and manipulate the files.
-
 If you are using android GnaCAD is the best option in our opinion.
 On a PC LibreCAD is excellent.
-There are several others you are free.
+There are many other 2DCAD options, choose the one you prefer.
 They are not 3D files so you don't need an expensive or student license or even a powerful computer.
 "You only need a cell phone"
 

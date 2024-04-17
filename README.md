@@ -1,72 +1,64 @@
-# Impressora 3D modular FinalBot   <a href='https://ko-fi.com/supportkofi' target='_blank'><img height='35' style='border:0px;height:36px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Compre um café para mim em ko-fi.com' />
+# FinalBot Modular 3D Printer   <a href='https://ko-fi.com/supportkofi' target='_blank'><img height='35' style='border:0px;height:36px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Compre um café para mim em ko-fi.com' />
 
 [![Status](https://img.shields.io/badge/STATUS-ACTIVE-brightgreen.svg)](https://github.com/FinalBot1/FinalBot/) [![License](https://img.shields.io/badge/License-CC_BY_NC_4.0-yellow.svg)](https://creativecommons.org/licenses/by-nc/4.0/) [![Draws](https://img.shields.io/badge/T.DRAWS-DXF2D-blue.svg)](https://github.com/FinalBot1/FinalBot/) [![Bom](https://img.shields.io/badge/BOM-XML-orange.svg)](https://github.com/FinalBot1/FinalBot/)
 
-Uma impressora 3D ilimitada.
-A intenção é ser adaptável a qualquer tecnologia FDM. 
-Entre as principais características:
-- Atualizações constantes conforme o mercado de componentes e inovações. 
-- Atualizações podem ser feitas aos poucos conforme sua disponibilidade financeira ou conforme sua curva de aprendizado.
-- Mesa 220x220mm com altura de impressão em 250mm, expansível futuramente.
-- Inicialmente Core XY, mas permitindo futuramente outras diversas arquiteturas.
-- Aplicável a múltiplos firmwares.
-- Aplicável a diversas eletrônicas.
-- Aplicável a múltiplos fatiadores.
-- Muitas vezes permitirá usar peças de outras impressoras antigas que você já tenha.
-- Instruções em vídeos na internet para cada melhoria lançada (em breve).
-- OPEN SOURCE, OPEN OPEN OPEN 
+## The machine
+An unlimited 3D printer, designed to be adaptable to any FDM technology.
+Key Features:
+Constant updates as market innovations (components, software, systems, etc.)
+Improvements can be made in stages, following your learning curve or financial availability.
+220x220mm table with Z=250mm printing height (frame/expandable courses in the future).
+Core XY system, but allowing for many other kinematics in the future.
+Applicable to all firmwares.
+Allows for various electronics.
+Works with multiple slicers.
+With creativity, it is possible to use some parts from your old printer.
+Video instructions on the internet for each improvement released (coming soon).
+OPEN SOURCE (but only for makers and contributors - see our license).
+Files for everyone
+The basic designs were created in 2D CAD in dxf format.
+The idea is to ensure that anyone has access to the construction drawings, even if they don't have a computer.
+We recommend using a dwg/dxf editor to measure and manipulate the files.
+If you are using android GnaCAD is the best option in our opinion.
+On a PC LibreCAD is excellent.
+There are several others you are free.
+They are not 3D files so you don't need an expensive or student license or even a powerful computer.
+"You only need a cell phone"
 
+## An endless system
 
-## Arquivos acessíveis a qualquer um
+Finalbot was designed as an RPG game, where you level up as you progress. But in this case you advance as you change parts and make upgrades. The main difference is that the limit will not be level 99 but the technology in evidence at the moment (without having to build a new printer).
+Was it difficult to design a system like this? Yes; Was it laborious? Very much; Is it an impossible idea? NO.
+We believe in technological evolution through open source and open hardware policy.
+It's not just about a cheap printer. We are talking about a machine that can be constantly improved.
+There are excellent DIY printers today, but the differential of FinalBot is to allow changes and upgrades in the same structure. These upgrades or mods are fully open to almost any type of component for sale on the market.
 
-Todos os desenhos básicos foram criados em CAD 2D. 
-A ideia é garantir que qualquer um tenha acesso aos desenhos de construção. Mesmo se não tiver um computador. 
-Basta usar seu celular. 
-Recomendamos usar um editor para poder medir e manipular os arquivos.
-Se estiver usando android o GnaCAD é a melhor opção na nossa opinião. Mas existem vários outros você é livre. 
+## Possibilities
 
+We are excited to add a number of upgrades and mods. We are currently working on developing DIY linear motors for the FinalBot. Also on other types of drives that have potential for the future.
+We also have projects for a heated chamber, dual hotend, voice-activated menus, multi-filament feeding, ATC for hotends, covers in countless colors, there are many things, many indeed.
 
-## Um sistema sem fim
+## Our mission
 
-A Finalbot foi idealizada como um jogo de RPG, onde você vai subindo de nível, neste caso conforme troca as peças e faz upgrades. Mas a diferença é que o limite não será o level 99 e sim a tecnologia em evidência no momento (sem precisar construir uma nova impressora).
-É difícil? Sim? É trabalhoso? Muito É uma ideia impossível? NÃO.
-Acreditamos na evolução tecnológica através da política open source e open hardware.
-Não se trata apenas de uma impressora barata. Falamos de uma máquina que pode ser melhorada constantemente.
-Existem hoje excelentes impressoras DIY, mas o diferencial da FinalBot é permitir alterações e upgrades na mesma estrutura. Esses upgrades são totalmente abertos a quase todo tipo de componentes a venda no mercado.
+Our mission will always be to reduce the gap between new 3D printing technologies (mainly proprietary) and DIY 3D printers.
+About 99% of everything that exists today commercially in fdm printers was thanks to the maker community. Most of what is sold was based on countless advances and tests by ordinary users.
+However, we have noticed that the latest technological advances have occurred more sharply in commercial projects than in diy communities.
+We don't want the market to be entirely dominated by closed systems. If this continues, for sure at some point the maker and diy community will be outdated from proprietary technologies (this has not happened yet but may happen soon).
+We want and will contribute to the strengthening of the maker and open source culture.
 
-## Possibilidades 
+## But we need you
 
-Estamos animados para acrescentar diversos upgrades e Mods. Atualmente estamos trabalhando no desenvolvimento de  motores lineares DIY para a FinalBot. Também outros tipos de acionamentos que potencialmente tem futuro.
-Também temos projetos para câmara aquecida, dual hotend, Menus acionados por voz, multi filamento, capas com inúmeras cores, são muitas coisas, muitas mesmo.
+We need your help to fund this project. We are doing everything in our power not to disappoint.
+Put your trust in this project and you will not regret it.
+If you buy us a coffee we will be very honored, but not only that.
+You will receive several drawings with more details and some basic mods.
+Click below and see the details on our contribution page.
 
-## Nossa missão 
+## Who are we?
 
-Nossa missão será sempre reduzir a distância entre novas tecnologias de impressão 3D de fabricantes comerciais e as impressoras 3D makers.
-Cerca de 99% de tudo que existe hoje comercialmente em impressoras fdm foi graças a comunidade maker. A maior parte das empresas existem graças aos inúmeros avanços e testes de usuários comuns. No entanto temos percebido que os últimos avanços tecnológicos tem sido feitos em uma escala maior comercialmente do que nas comunidades makers. Não queremos que o mercado seja inteiramente dominado por sistemas fechados. Se isso continuar, com certeza em algum momento a comunidade maker e Diy ficará longe das tecnologias recentes (isso ainda não aconteceu mas poderá em breve). Nós queremos e vamos contribuir para o fortalecimento da cultura maker e open source.
+First and foremost, enthusiasts passionate about 3D printing. Secondly, dreamers with the vision that wherever you are, whether in a country with resources, whether in a small town, whether in California, whether in Alaska or on the moon, EVERYONE can have a 3D printer and print at home.
+And finally, we are professionals specialized in the areas of development engineering and industrial manufacturing. With extensive experience in machines and systems, we make complex things understandable.
 
+## License
 
-## Mas precisamos de você
-
-Precisamos da sua ajuda para custear este projeto. Nós estamos fazendo tudo que está a nosso alcance para não decepcionar.
-Coloque sua confiança neste projeto e não irá se arrepender. 
-Se nos pagar um café ficaremos muito honrados, mas não apenas isso.
-Você receberá vários desenhos com mais detalhes e alguns mods básicos.
-Click abaixo e veja os detalhes. 
-
-
-## Quem somos?
-
-Em primeiro lugar entusiastas apaixonados pela impressão 3D. Em segundo sonhadores de que cada um, seja em um país desenvolvido, seja pobre, seja na Califórnia, seja no Alasca ou na lua, TODOS possam ter uma impressora 3D e imprimir em casa. 
-E por último somos profissionais especializados na área de engenharia de desenvolvimento e fabricação industrial.
-
-## Licença
 Creative Comons 4.0
- 
-
-
-
-
-
-
-
-

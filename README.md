@@ -73,7 +73,7 @@ Click below and see the details on our contribution page.
 
 <a href='https://ko-fi.com/supportkofi' target='_blank'><img height='35' style='border:0px;height:36px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Compre um café para mim em ko-fi.com' />
 
-Note: We are giving bonuses to users who donate, to subsidize the project and its mods. All money donated will be allocated entirely to the development of the project (purchase of parts, filaments, new items, etc.). Soon several mods and upgrades will be available on this github page.
+Note: We are giving gifts (mod draws) to users who donate, to subsidize the project and its mods. All money donated will be allocated entirely to the development of the project (purchase of parts, filaments, new items, etc.). Soon several mods and upgrades will be available on this github page.
 
 ## Who are we?
 

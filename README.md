@@ -9,7 +9,7 @@
 - [Possibilities](#possibilities)
 - [Our mission](#our-mission)
 - [But we need you](#but-we-need-you)
-- [Who are we?](#who-are-we?)
+- [Who are we?](#who-are-we)
 - [License](#license)
 
 
@@ -77,11 +77,6 @@ First and foremost, enthusiasts passionate about 3D printing. Secondly, dreamers
 And finally, we are professionals specialized in the areas of development engineering and industrial manufacturing. With extensive experience in machines and systems, we make complex things understandable.
 
 ## License
-
-Creative Comons CC BY-NC 4.0 DEED
-Attribution-NonCommercial 4.0 International
-https://creativecommons.org/licenses/by-nc/4.0/
-
 
 Creative Comons CC BY-NC 4.0 DEED
 Attribution-NonCommercial 4.0 International

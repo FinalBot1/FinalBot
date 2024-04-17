@@ -2,7 +2,8 @@
 
 [![Status](https://img.shields.io/badge/STATUS-ACTIVE-brightgreen.svg)](https://github.com/FinalBot1/FinalBot/) [![License](https://img.shields.io/badge/License-CC_BY_NC_4.0-yellow.svg)](https://creativecommons.org/licenses/by-nc/4.0/) [![Draws](https://img.shields.io/badge/T.DRAWS-DXF2D-blue.svg)](https://github.com/FinalBot1/FinalBot/) [![Bom](https://img.shields.io/badge/BOM-XML-orange.svg)](https://github.com/FinalBot1/FinalBot/)
 
-## The machine
+## The printer
+
 An unlimited 3D printer, designed to be adaptable to any FDM technology.
 Key Features:
 Constant updates as market innovations (components, software, systems, etc.)
@@ -15,7 +16,9 @@ Works with multiple slicers.
 With creativity, it is possible to use some parts from your old printer.
 Video instructions on the internet for each improvement released (coming soon).
 OPEN SOURCE (but only for makers and contributors - see our license).
-Files for everyone
+
+## Files for everyone
+
 The basic designs were created in 2D CAD in dxf format.
 The idea is to ensure that anyone has access to the construction drawings, even if they don't have a computer.
 We recommend using a dwg/dxf editor to measure and manipulate the files.
@@ -62,3 +65,4 @@ And finally, we are professionals specialized in the areas of development engine
 ## License
 
 Creative Comons 4.0
+(https://creativecommons.org/licenses/by-nc/4.0/)

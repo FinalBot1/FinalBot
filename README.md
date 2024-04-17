@@ -25,7 +25,7 @@ The idea is to ensure that anyone has access to the construction drawings, even 
 We recommend using a dwg/dxf editor to measure and manipulate the files.
 If you are using android GnaCAD is the best option in our opinion.
 On a PC LibreCAD is excellent.
-There are many other 2DCAD options, choose the one you prefer.
+There are many other CAD2D options, choose the one you prefer.
 They are not 3D files so you don't need an expensive or student license or even a powerful computer.
 "You only need a cell phone"
 
@@ -39,8 +39,8 @@ There are excellent DIY printers today, but the differential of FinalBot is to a
 
 ## Possibilities
 
-We are excited to add a number of upgrades and mods. We are currently working on developing DIY linear motors for the FinalBot. Also on other types of drives that have potential for the future.
-We also have projects for a heated chamber, dual hotend, voice-activated menus, multi-filament feeding, ATC for hotends, covers in countless colors, there are many things, many indeed.
+We are excited to add a number of upgrades and mods. We are currently working on developing DIY magnetic linear motors for the FinalBot. Also on other types of drives that have potential for the future.
+We also have projects for a heated chamber, dual hotend, voice-activated menus, multi-filament feeding, ATC for hotends, enclousure in countless colors, there are many things, many indeed.
 
 ## Our mission
 

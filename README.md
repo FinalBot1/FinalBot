@@ -2,7 +2,16 @@
 
 [![Status](https://img.shields.io/badge/STATUS-ACTIVE-brightgreen.svg)](https://github.com/FinalBot1/FinalBot/) [![License](https://img.shields.io/badge/LICENSE-CC_BY_NC_4.0-yellow.svg)](https://creativecommons.org/licenses/by-nc/4.0/) [![Draws](https://img.shields.io/badge/T.DRAWS-DXF2D-blue.svg)](https://github.com/FinalBot1/FinalBot/) [![Bom](https://img.shields.io/badge/BOM-ODS-orange.svg)](https://github.com/FinalBot1/FinalBot/)
 
+### Menu
 - [The printer](#the-printer)
+- [Files for everyone](#files-for-everyone)
+- [An endless system](#an-endless-system)
+- [Possibilities](#possibilities)
+- [Our mission](#our-mission)
+- [But we need you](#but-we-need-you)
+- [Who are we?](#who-are-we?)
+- [License](#license)
+
 
 ## The printer
 
@@ -68,6 +77,11 @@ First and foremost, enthusiasts passionate about 3D printing. Secondly, dreamers
 And finally, we are professionals specialized in the areas of development engineering and industrial manufacturing. With extensive experience in machines and systems, we make complex things understandable.
 
 ## License
+
+Creative Comons CC BY-NC 4.0 DEED
+Attribution-NonCommercial 4.0 International
+https://creativecommons.org/licenses/by-nc/4.0/
+
 
 Creative Comons CC BY-NC 4.0 DEED
 Attribution-NonCommercial 4.0 International

@@ -1,4 +1,3 @@
-<hr>
 ![FinalBot Logo](/Img/Logo1.jpg)
 <hr>
 

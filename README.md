@@ -7,16 +7,16 @@
 An unlimited 3D printer, designed to be adaptable to any FDM technology.
 
 Key Features:
-Constant updates according to market innovations (components, software, systems, etc.)
+- Constant updates according to market innovations (components, software, systems, etc.)
 Improvements can be made in stages, following your learning curve or financial availability.
-220x220mm table with Z=250mm printing height (frame/expandable courses in the future).
-Core XY system, but allowing for many other kinematics in the future.
-Applicable to all firmwares.
-Allows for various electronics.
-Works with multiple slicers.
-With creativity, it is possible to use some parts from your old printer.
-Video instructions on the internet for each improvement released (coming soon).
-OPEN SOURCE (but only for makers and contributors - see our license).
+- 220x220mm heatbed with Z=250mm printing height (frame and travel limits expandable in the future).
+- Core XY system, but allowing for many other kinematics in the future.
+- Applicable to all firmwares.
+- Allows for various electronics.
+- Works with multiple slicers.
+- With creativity, it is possible to use some parts from your old 3D printer.
+- Video instructions on the internet for each improvement released (coming soon).
+- 100% OPEN SOURCE (but only for makers and contributors - see our license).
 
 ## Files for everyone
 

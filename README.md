@@ -86,8 +86,11 @@ And finally, we are professionals specialized in the areas of development engine
 
 ## License
 
-Creative Comons CC BY-NC 4.0 DEED
-Attribution-NonCommercial 4.0 International
+<p align="center">
+  < "Creative Comons CC BY-NC 4.0 DEED
+Attribution-NonCommercial 4.0 International" />
+
 <p align="center">
   <img src="/Img/CC_BY_NC_4.jpeg" />
-https://creativecommons.org/licenses/by-nc/4.0/
+
+  (https://creativecommons.org/licenses/by-nc/4.0/)

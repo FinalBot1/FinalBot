@@ -1,4 +1,4 @@
-![FinalBot Logo](/Img/Logo1.jpeg)
+![FinalBot Logo](/Img/Logo1.jpg)
 <hr>
 <h>
 

@@ -6,7 +6,8 @@
 
 An unlimited 3D printer, designed to be adaptable to any FDM technology.
 
-Key Features:- Constant updates according to market innovations (components, software, systems, etc.)
+Key Features:
+- Constant updates according to market innovations (components, software, systems, etc.)
 - Improvements can be made in stages, following your learning curve or financial availability.
 - 220x220mm heatbed with Z=250mm printing height (frame and travel limits expandable in the future).
 - Core XY system, but allowing for many other kinematics in the future.

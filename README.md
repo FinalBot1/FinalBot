@@ -5,7 +5,9 @@
 ## The printer
 
 An unlimited 3D printer, designed to be adaptable to any FDM technology.
+
 Key Features:
+
 Constant updates as market innovations (components, software, systems, etc.)
 Improvements can be made in stages, following your learning curve or financial availability.
 220x220mm table with Z=250mm printing height (frame/expandable courses in the future).
@@ -64,5 +66,6 @@ And finally, we are professionals specialized in the areas of development engine
 
 ## License
 
-Creative Comons 4.0
-(https://creativecommons.org/licenses/by-nc/4.0/)
+Creative Comons CC BY-NC 4.0 DEED
+Attribution-NonCommercial 4.0 International
+https://creativecommons.org/licenses/by-nc/4.0/

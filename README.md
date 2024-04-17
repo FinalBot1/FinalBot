@@ -1,10 +1,7 @@
-![FinalBot Logo](/Img/Logo1.jpg)
-<hr>
-
 <p align="center">
-  <img src="/Img/Logo1.jpg" />
+  <img src="/Img/Logo_finalbot.jpg" />
 </p>
-
+<hr>
 
 # FinalBot Modular 3D Printer   <a href='https://ko-fi.com/supportkofi' target='_blank'><img height='35' style='border:0px;height:36px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Compre um café para mim em ko-fi.com' />
 

@@ -7,8 +7,7 @@
 An unlimited 3D printer, designed to be adaptable to any FDM technology.
 
 Key Features:
-
-Constant updates as market innovations (components, software, systems, etc.)
+Constant updates according to market innovations (components, software, systems, etc.)
 Improvements can be made in stages, following your learning curve or financial availability.
 220x220mm table with Z=250mm printing height (frame/expandable courses in the future).
 Core XY system, but allowing for many other kinematics in the future.

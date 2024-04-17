@@ -40,6 +40,8 @@ There are many other CAD2D options, choose the one you prefer.
 They are not 3D files so you don't need an expensive or student license or even a powerful computer.
 "You only need a cell phone"
 
+Note: the images have a black background for better viewing.
+
 ## An endless system
 
 Finalbot was designed as an RPG game, where you level up as you progress. But in this case you advance as you change parts and make upgrades. The main difference is that the limit will not be level 99 but the technology in evidence at the moment (without having to build a new printer).
@@ -70,6 +72,8 @@ You will receive several drawings with more details and some basic mods.
 Click below and see the details on our contribution page.
 
 <a href='https://ko-fi.com/supportkofi' target='_blank'><img height='35' style='border:0px;height:36px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Compre um café para mim em ko-fi.com' />
+
+Note: We are giving bonuses to users who donate, to subsidize the project and its mods. All money donated will be allocated entirely to the development of the project (purchase of parts, filaments, new items, etc.). Soon several mods and upgrades will be available on this github page.
 
 ## Who are we?
 

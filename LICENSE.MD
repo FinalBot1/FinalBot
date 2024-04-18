@@ -1,7 +1,7 @@
 ## License
 
-Creative Comons CC BY-NC 4.0 DEED
-Attribution-NonCommercial 4.0 International
+<h1 align="center">Creative Comons CC BY-NC 4.0 DEED
+Attribution-NonCommercial 4.0 International</h1> 
 
 <p align="center">
   <img src="/Img/CC_BY_NC_4_0.jpg" />

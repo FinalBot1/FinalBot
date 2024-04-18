@@ -91,6 +91,6 @@ And finally, we are professionals specialized in the areas of development engine
 Attribution-NonCommercial 4.0 International" />
 
 <p align="center">
-  <img src="/Img/CC_BY_NC_4.jpeg" />
+  <img src="/Img/CC_BY_NC_4_0.jpeg" />
 
   (https://creativecommons.org/licenses/by-nc/4.0/)

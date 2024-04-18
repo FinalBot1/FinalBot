@@ -10,4 +10,4 @@ This license includes all files present here, including all FinalBot designs, lo
 For more details see the following link:
 https://creativecommons.org/licenses/by-nc/4.0/
 
-<h1 align="center">https://creativecommons.org/licenses/by-nc/4.0/</h1> 
+<a align="center">https://creativecommons.org/licenses/by-nc/4.0/</a> 

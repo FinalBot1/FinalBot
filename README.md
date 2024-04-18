@@ -1,7 +1,7 @@
 <p align="center">
   <img src="/Img/Logo_finalbot.jpg" />
 
-  ![logo](/Img/Logo_finalbot.jpg)
+(".         ")![logo](/Img/Logo_finalbot.jpg)
   
 <hr>
 

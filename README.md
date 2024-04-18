@@ -1,4 +1,4 @@
-<image src="/Img/Logo_finalbot.jpg" style="margin-left: 20px;">
+<image src="/Img/Logo_finalbot.jpg" style="margin-left: 150px;">
 
 <hr>
 

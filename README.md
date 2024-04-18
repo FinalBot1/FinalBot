@@ -92,5 +92,7 @@ Attribution-NonCommercial 4.0 International</h1>
 
 <p align="center">
   <img src="/Img/CC_BY_NC_4_0.jpg" />
-
-<p align="center"><p href="https://creativecommons.org/licenses/by-nc/4.0/"></p> 
+  
+<p align="center">
+https://www.creative-tim.com
+</p>

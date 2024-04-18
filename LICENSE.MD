@@ -8,6 +8,4 @@ Attribution-NonCommercial 4.0 International</h1>
 
 This license includes all files present here, including all FinalBot designs, logo and name.
 For more details see the following link:
-https://creativecommons.org/licenses/by-nc/4.0/
-
 <p align="center">https://creativecommons.org/licenses/by-nc/4.0/</p> 

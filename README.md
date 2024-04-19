@@ -19,8 +19,8 @@
 
 ## The printer
 
-<p align="center">
-  <img src="/Img/IMG01.png" />
+[![Imagem 1](03.jpg)](/Img/03.jpg)
+[![Imagem 2](/Img/04.jpg)]
 
 An unlimited 3D printer, designed to be adaptable to any FDM technology.
 

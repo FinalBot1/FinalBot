@@ -93,4 +93,4 @@ Attribution-NonCommercial 4.0 International</a>
 <p align="center">
   <img src="/Img/CC_BY_NC_4_0.jpg" />
 
-<h4 align="center">https://creativecommons.org/licenses/by-nc/4.0/</h4> 
+<h3 align="center">https://creativecommons.org/licenses/by-nc/4.0/</h3> 

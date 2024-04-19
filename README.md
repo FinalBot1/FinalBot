@@ -90,7 +90,7 @@ And finally, we are professionals specialized in the areas of development engine
 <a align="center">Creative Comons CC BY-NC 4.0 DEED
 Attribution-NonCommercial 4.0 International</a> 
 
-<p align="center">
-  <img src="/Img/CC_BY_NC_4_0.jpg" /> <p height=30>
+<p align="center" height=15>
+  <img src="/Img/CC_BY_NC_4_0.jpg" />
 
 <h4 align="center">https://creativecommons.org/licenses/by-nc/4.0/</h4> 

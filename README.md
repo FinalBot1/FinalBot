@@ -87,7 +87,7 @@ And finally, we are professionals specialized in the areas of development engine
 
 ## License
 
-<a align="center">Creative Comons CC BY-NC 4.0 DEED
+<a align="center">Creative Commons CC BY-NC 4.0 DEED
 Attribution-NonCommercial 4.0 International</a> 
 
 <p align="center">

@@ -19,6 +19,9 @@
 
 ## The printer
 
+<p align="center">
+  <img src="/Img/IMG01.pmg" />
+
 An unlimited 3D printer, designed to be adaptable to any FDM technology.
 
 Key Features:

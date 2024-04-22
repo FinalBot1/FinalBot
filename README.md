@@ -1,8 +1,5 @@
 <p align="center">
-  <img src="/Img/Logo_github1.png" />
-<hr>
-  
-# FinalBot Modular 3D Printer
+  <img src="/Img/Logo_github1.png" /> <hr>
 
 <h1 align="center">FinalBot Modular 3D Printer</h1> 
 

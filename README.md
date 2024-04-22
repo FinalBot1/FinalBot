@@ -1,7 +1,7 @@
 <p align="center">
   <img src="/Img/Logo_github1.png" />
 <hr>
-# FinalBot Modular 3D Printer   <a href='https://ko-fi.com/supportkofi' target='_blank'><img height='35' style='border:0px;height:36px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Compre um café para mim em ko-fi.com' />
+## FinalBot Modular 3D Printer   <a href='https://ko-fi.com/supportkofi' target='_blank'><img height='35' style='border:0px;height:36px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Compre um café para mim em ko-fi.com' />
 
 [![Status](https://img.shields.io/badge/STATUS-ACTIVE-brightgreen.svg)](https://github.com/FinalBot1/FinalBot/) [![License](https://img.shields.io/badge/LICENSE-CC_BY_NC_4.0-yellow.svg)](https://creativecommons.org/licenses/by-nc/4.0/) [![T.Drawings](https://img.shields.io/badge/T.DRAWINGS-DXF2D-blue.svg)](https://github.com/FinalBot1/FinalBot/) [![Bom](https://img.shields.io/badge/BOM-ODS-orange.svg)](https://github.com/FinalBot1/FinalBot/)
 
@@ -36,6 +36,7 @@ Key Features:
 - 100% OPEN SOURCE (use only for makers and contributors without commercial - see our license).
 
 ## Files for everyone
+![Imagem 2](/Img/Img02.png)
 
 The basic designs were created in 2D CAD with dxf format.
 The idea is to ensure that anyone has access to the construction drawings, even if they don't have a computer.

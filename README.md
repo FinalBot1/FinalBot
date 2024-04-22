@@ -18,7 +18,7 @@
 
 ## The printer
 
-![Imagem 1](/Img/img01.png)
+![Imagem 1](/Img/Img01.png)
 
 An unlimited 3D printer, designed to be adaptable to any FDM technology.
 

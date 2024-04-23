@@ -38,6 +38,7 @@ Key Features:
 - 100% OPEN SOURCE (use only for makers and contributors without commercial - see our license).
 
 ## Files for everyone
+
 ![Imagem 2](/Img/Img02.png)
 
 The basic designs were created in 2D CAD with dxf format.
@@ -52,6 +53,7 @@ They are not 3D files so you don't need an expensive or student license or even 
 Note: the images have a black background for better viewing.
 
 ## An endless system
+![Imagem 3](/Img/Img03.png)
 
 Finalbot was designed as an RPG game, where you level up as you progress. But in this case you advance as you change parts and make upgrades. The main difference is that the limit will not be level 99 but the technology in evidence at the moment (without having to build a new printer).
 Was it difficult to design a system like this? yes; was it laborious? very much; is it an impossible idea? It's not impossible.

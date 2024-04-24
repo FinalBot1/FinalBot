@@ -39,7 +39,7 @@ Key Features:
 
 ## Files for everyone
 
-![Imagem 2](/Img/Img02_1.png)
+![Imagem 2](/Img/Img02_2.png)
 
 The basic designs were created in 2D CAD with dxf format.
 The idea is to ensure that anyone has access to the construction drawings, even if they don't have a computer.

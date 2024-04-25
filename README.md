@@ -95,7 +95,7 @@ Note: We are giving gifts (CAD drawings) to users who donate, to subsidize the p
 
 ## Who are we?
 
-![Imagem 2](/Img/Img07.png)
+![Imagem 2](/Img/Img07_1.png)
 
 First and foremost, enthusiasts passionate about 3D printing. Secondly, dreamers with the vision that wherever you are, whether in a country with resources, whether in a small town, whether in California, whether in Alaska or on the moon, EVERYONE can have a 3D printer and print at home.
 And finally, we are professionals specialized in the areas of development engineering and industrial manufacturing. With extensive experience in machines and systems, we make complex things understandable.

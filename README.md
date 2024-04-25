@@ -53,6 +53,7 @@ They are not 3D files so you don't need an expensive or student license or even 
 Note: the images have a black background for better viewing.
 
 ## An endless system
+
 ![Imagem 3](/Img/Img03_1.png)
 
 Finalbot was designed as an RPG game, where you level up as you progress. But in this case you advance as you change parts and make upgrades. The main difference is that the limit will not be level 99 but the technology in evidence at the moment (without having to build a new printer).
@@ -63,10 +64,14 @@ There are excellent DIY printers today, but the differential of FinalBot is to a
 
 ## Possibilities
 
+![Imagem 4](/Img/Img04.png)
+
 We are excited to add a number of upgrades and mods. We are currently working on developing DIY magnetic linear motors for the FinalBot. Also on other types of drives that have potential for the future.
 We also have projects for a heated chamber, dual hotend, voice-activated menus, multi-filament feeding, ATC for hotends, enclousure in countless colors, there are many things, many indeed.
 
 ## Our mission
+
+![Imagem 5](/Img/Img05.png)
 
 Our mission will always be to reduce the gap between new 3D printing technologies (mainly proprietary) and DIY 3D printers.
 About 99% of everything that exists today commercially in fdm printers was thanks to the maker community. Most of what is sold was based on countless advances and tests by ordinary users.
@@ -75,6 +80,8 @@ We don't want the market to be entirely dominated by closed systems. If this con
 We want and will contribute to the strengthening of the maker and open source culture.
 
 ## But we need you
+
+![Imagem 6](/Img/Img06.png)
 
 We need your help to fund this project. We are doing everything in our power not to disappoint.
 Put your trust in this project and you will not regret it.
@@ -87,6 +94,8 @@ Click below and see the details on our contribution page.
 Note: We are giving gifts (CAD drawings) to users who donate, to subsidize the project and its mods. All money donated will be allocated entirely to the development of the project (purchase of parts, filaments, new items, etc.). Soon several mods and upgrades will be available on this github page.
 
 ## Who are we?
+
+![Imagem 2](/Img/Img07.png)
 
 First and foremost, enthusiasts passionate about 3D printing. Secondly, dreamers with the vision that wherever you are, whether in a country with resources, whether in a small town, whether in California, whether in Alaska or on the moon, EVERYONE can have a 3D printer and print at home.
 And finally, we are professionals specialized in the areas of development engineering and industrial manufacturing. With extensive experience in machines and systems, we make complex things understandable.

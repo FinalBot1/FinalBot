@@ -71,7 +71,7 @@ We also have projects for a heated chamber, dual hotend, voice-activated menus, 
 
 ## Our mission
 
-![Imagem 5](/Img/Img05_1.png)
+![Imagem 5](/Img/Img05.png)
 
 Our mission will always be to reduce the gap between new 3D printing technologies (mainly proprietary) and DIY 3D printers.
 About 99% of everything that exists today commercially in fdm printers was thanks to the maker community. Most of what is sold was based on countless advances and tests by ordinary users.

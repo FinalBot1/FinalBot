@@ -5,8 +5,7 @@
 
   <a href='https://ko-fi.com/supportkofi' target='_blank'><img height='35' style='border:0px;height:36px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Compre um café para mim em ko-fi.com' />
 
-[![Status](https://img.shields.io/badge/STATUS-ACTIVE-brightgreen.svg)](https://github.com/FinalBot1/FinalBot/) [![License](https://img.shields.io/badge/LICENSE-CC_BY_NC_4.0-yellow.svg)](https://creativecommons.org/licenses/by-nc/4.0/) [![T.Drawings](https://img.shields.io/badge/T.DRAWINGS-DXF.DWG-
-.2D-blue.svg)](https://github.com/FinalBot1/FinalBot/) [![Bom](https://img.shields.io/badge/BOM-ODS-orange.svg)](https://github.com/FinalBot1/FinalBot/)
+[![Status](https://img.shields.io/badge/STATUS-ACTIVE-brightgreen.svg)](https://github.com/FinalBot1/FinalBot/) [![License](https://img.shields.io/badge/LICENSE-CC_BY_NC_4.0-yellow.svg)](https://creativecommons.org/licenses/by-nc/4.0/) [![T.Drawings](https://img.shields.io/badge/T.DRAWINGS-DXF DWG 2D-blue.svg)](https://github.com/FinalBot1/FinalBot/) [![Bom](https://img.shields.io/badge/BOM-ODS-orange.svg)](https://github.com/FinalBot1/FinalBot/)
 
 ### Menu
 - [The printer](#the-printer)

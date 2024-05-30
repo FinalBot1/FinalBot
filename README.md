@@ -36,6 +36,7 @@ Key Features:
 - With creativity, it is possible to use some parts from your old 3D printer.
 - Video instructions on the internet for each improvement released (coming soon).
 - 100% OPEN SOURCE (use only for makers and contributors without commercial - see our license).
+
 ![Imagem 8A](/Img/Img8A.png)
 
 ## Files for everyone

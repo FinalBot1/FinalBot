@@ -29,7 +29,7 @@ Key Features:
 - Improvements can be made in stages, following your learning curve or financial availability.
 - 220x220mm heatbed with Z=250mm printing height (frame and travel limits expandable in the future).
 - Core XY system, but allowing for many other kinematics in the future.
-- Printing speed: 300, 500, 800, 1000mm/s...  It will depend on 3 factors: driver assembly, hotend flow rate and parameters.
+- Printing speed: 300, 500, 800, 1000mm/s...  It will depend on the upgrade level currently applied.
 - Applicable to all firmwares.
 - Allows for various electronics.
 - Works with multiple slicers.

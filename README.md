@@ -36,6 +36,7 @@ Key Features:
 - With creativity, it is possible to use some parts from your old 3D printer.
 - Video instructions on the internet for each improvement released (coming soon).
 - 100% OPEN SOURCE (use only for makers and contributors without commercial - see our license).
+![Imagem 8A](/Img/Img8A.png)
 
 ## Files for everyone
 
@@ -92,6 +93,10 @@ Click below and see the details on our contribution page.
 <a href='https://ko-fi.com/finalbot' target='_blank'><img height='35' style='border:0px;height:36px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Compre um café para mim em ko-fi.com' />
 
 Note: We are giving gifts (CAD drawings) to users who donate, to subsidize the project and its mods. All money donated will be allocated entirely to the development of the project (purchase of parts, filaments, new items, etc.). Soon several mods and upgrades will be available on this github page.
+
+## Why did we think about this project?
+ We understood at a certain point, after many years involved in the 3D printing market, that technology will not stop changing.  It stagnates for a while but then starts to change quickly with a strong readjustment of both proprietary and DIY systems.  The next printer with new technology will appear.  The question is not "if" but "when".  With this in mind, we realize that we will have to continue buying more printers to keep up with the market.   But what if we didn't need to change our printers?  What if we could only exchange the items that innovated?  We understand that this idea of ​​a frame that allows multiple updates (and can also accommodate changes according to the needs of each individual user) is the future.  And to work it needs to be open source.
+![Imagem 9A](/Img/Img9A.png)
 
 ## Who are we?
 

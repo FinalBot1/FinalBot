@@ -74,11 +74,10 @@ We are excited to add a series of updates and mods.   Currently, in addition to 
 
 ![Imagem 5](/Img/Img05_2.png)
 
-Our mission will always be to reduce the gap between new 3D printing technologies (mainly proprietary) and DIY 3D printers.
-About 99% of everything that exists today commercially in fdm printers was thanks to the maker community. Most of what is sold was based on countless advances and tests by ordinary users.
-However, we have noticed that the latest technological advances have occurred more sharply in commercial projects than in diy communities.
-We don't want the market to be entirely dominated by closed systems. If this continues, for sure at some point the maker and diy community will be outdated from proprietary technologies (this has not happened yet but may happen soon).
-We want and will contribute to the strengthening of the maker and open source culture.
+Our mission will always be to bridge the gap between new 3D printing technologies and DIY 3D printers.
+  About 90% of everything that exists today in fdm printers was thanks to the maker community.   Most of what is sold has been based on numerous advances and tests by ordinary users.
+  As we said, there are already other excellent DIY 3D printers today (we like them, you can be sure), but we want to make our contribution to the world of additive manufacturing.
+  We have great ideas that we want to build and share.  We would be happy if you supported us on this journey.  We will certainly always reciprocate.
 
 ## But we need you
 

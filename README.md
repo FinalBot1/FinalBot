@@ -61,7 +61,7 @@ Note: the images have a black background for better viewing.
 Finalbot was designed as an RPG game, where you level up as you progress. But in this case you advance as you change parts and make upgrades. The main difference is that the limit will not be level 99 but the technology in evidence at the moment (without having to build a new printer).
 We believe in technological evolution through open source and open hardware policy.
 It's not just about a cheap printer. We are talking about a machine that can be constantly improved.
-There are excellent DIY printers today, but the difference with FinalBot is that it allows changes and updates to the same structure, without the exact need to use "FinalBot" parts/adapters.  The motto is to be minimalist in each project so that you can even improvise using a new mod on your own.   These upgrades or mods are completely open to almost any type of component for sale on the market.
+There are excellent DIY printers today, but the difference with FinalBot is that it allows changes and updates to the same structure, without the exact need to use "FinalBot" parts/adapters.  The motto is to be minimalist in each project so that you can even improvise using a new mod on your own. These upgrades or mods are completely open to almost any type of component for sale on the market.
 
 ## Possibilities
 

@@ -67,8 +67,8 @@ There are excellent DIY printers today, but the difference with FinalBot is that
 
 ![Imagem 4](/Img/Img04.png)
 
-We are excited to add a number of upgrades and mods. We are currently working on developing DIY magnetic linear motors for the FinalBot. Also on other types of drives that have potential for the future.
-We also have projects for a heated chamber, dual hotend, voice-activated menus, multi-filament feeding, ATC for hotends, enclousure in countless colors, there are many things, many indeed.
+We are excited to add a series of updates and mods.   Currently, in addition to gathering the basic components and assembling the prototype, we are working on developing DIY magnetic linear motors for the FinalBot.   Also in other types of drives with potential for the future.
+  We also have heated chamber projects, double hotends, voice-activated menus, multifilament power supply, ATC for hotends, cabinets in countless colors, there are many things, many indeed.
 
 ## Our mission
 

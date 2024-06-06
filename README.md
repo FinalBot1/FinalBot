@@ -83,15 +83,14 @@ Our mission will always be to bridge the gap between new 3D printing technologie
 
 ![Imagem 6](/Img/Img06.png)
 
-We need your help to fund this project. We are doing everything in our power not to disappoint.
-Put your trust in this project and you will not regret it.
-If you buy us a coffee we will be very honored, but not only that.
-You will receive several drawings with more details and some basic mods.
-Click below and see the details on our contribution page.
+We need your help to finance this project.   We are doing everything in our power to not disappoint.
+  Trust this work and you won't regret it.
+  If you buy us a coffee we would be very honored.
+  Click below and see details on our contribution page.
 
 <a href='https://ko-fi.com/finalbot' target='_blank'><img height='35' style='border:0px;height:36px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Compre um café para mim em ko-fi.com' />
 
-Note: We are giving gifts (CAD drawings) to users who donate, to subsidize the project and its mods. All money donated will be allocated entirely to the development of the project (purchase of parts, filaments, new items, etc.). Soon several mods and upgrades will be available on this github page.
+Note: All donated amounts will be used entirely for the development of the project (purchase of parts, filaments, new items, etc.) now and in the future.   Soon more mods and updates will be available on this github page.
 
 ## Why did we think about this project?
 We understood at a certain point, after many years involved in the 3D printing market, that technology will not stop changing.  It stagnates for a while but then starts to change quickly with a strong readjustment of both proprietary and DIY systems.  The next printer with new technology will appear.  The question is not "if" but "when".  With this in mind, we realize that we will have to continue buying more printers to keep up with the market.   But what if we didn't need to change our printers?  What if we could only exchange the items that innovated?  We understand that this idea of ​​a frame that allows multiple updates (and can also accommodate changes according to the needs of each individual user) is the future.  And to work it needs to be open source.
